@@ -53,8 +53,7 @@ Day 45 ⬜
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/arvind-parmar-59b409318/)
-* LeetCode: [YOUR_PROFILE_LINK](https://leetcode.com/u/heyitsarvind/)
+* [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
 
 ---
 
