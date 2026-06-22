@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress | Status         |
 | ------------------ | -------- | -------------- |
-| 📅 Days Completed  | 1 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 3+       | 📈 Growing     |
+| 📅 Days Completed  | 2 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 6/191       | 📈 Growing     |
 | 💻 Language        | C++      | ✅ Active       |
 
 ---
@@ -37,11 +37,17 @@ Although I joined the challenge after it had already started, I decided to begin
 
 ---
 
+### 📂 Day 2 : Arrays (Part B)
+
+* [Best Time to Buy and Sell Stock](./Day-02/BestTimeToBuyAndSellStock.cpp)
+* [Sort Colors](./Day-02/SortColors.cpp)
+* [Kadane's Algorithm](./Day-02/KadanesAlgorithm.cpp)
+
 ## 🔥 Progress
 
 ```text
 Day 01 ✅
-Day 02 ⬜
+Day 02 ✅
 Day 03 ⬜
 Day 04 ⬜
 Day 05 ⬜
