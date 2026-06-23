@@ -19,11 +19,11 @@ Although I joined the challenge after it had already started, I decided to begin
 
 ## 📊 Challenge Dashboard
 
-| Metric             | Progress | Status         |
-| ------------------ | -------- | -------------- |
-| 📅 Days Completed  | 2 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 6/191       | 📈 Growing     |
-| 💻 Language        | C++      | ✅ Active       |
+| Metric             | Progress  | Status         |
+| ------------------ | --------  | -------------- |
+| 📅 Days Completed  | 3 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 9/ 191   | 📈 Growing     |
+| 💻 Language        | C++      | ✅ Active      |
 
 ---
 
@@ -43,12 +43,18 @@ Although I joined the challenge after it had already started, I decided to begin
 * [Sort Colors](./Day-02/SortColors.cpp)
 * [Kadane's Algorithm](./Day-02/KadanesAlgorithm.cpp)
 
+### 📂 Day 3 : Arrays (Part C)
+
+* [Merge Sorted Array](./Day-03/MergeSortedArray.cpp)
+* [Merge Intervals](./Day-03/MergeIntervals.cpp)
+* [Rotate Image](./Day-03/RotateImage.cpp)
+
 ## 🔥 Progress
 
 ```text
 Day 01 ✅
 Day 02 ✅
-Day 03 ⬜
+Day 03 ✅
 Day 04 ⬜
 Day 05 ⬜
 ...
