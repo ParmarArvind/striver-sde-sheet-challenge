@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 4 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 12 / 191   | 📈 Growing     |
+| 📅 Days Completed  | 5 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 15 / 191   | 📈 Growing     |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
