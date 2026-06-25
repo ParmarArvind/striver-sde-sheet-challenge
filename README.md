@@ -67,6 +67,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Count Inversions : [Problem](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) [Solution](./Day-04/CountInversions.cpp)
 
 
+### 📂 Day 5 : Arrays (Part E)
+
+* Majority Element : [Problem](https://leetcode.com/problems/majority-element/) [Solution](./Day-05/MajorityElement.cpp)
+
+* Pow(x, n) : [Problem](https://leetcode.com/problems/powx-n/) [Solution](./Day-05/PowXN.cpp)
+
+* Search a 2D Matrix : [Problem](https://leetcode.com/problems/search-a-2d-matrix/) [Solution](./Day-05/Search2DMatrix.cpp)
+
+
 
 
 
