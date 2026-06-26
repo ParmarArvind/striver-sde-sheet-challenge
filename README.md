@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 5 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 15 / 191   | 📈 Growing     |
+| 📅 Days Completed  | 6 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 18 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -74,6 +74,16 @@ Although I joined the challenge after it had already started, I decided to begin
 * Pow(x, n) : [Problem](https://leetcode.com/problems/powx-n/) [Solution](./Day-05/PowXN.cpp)
 
 * Search a 2D Matrix : [Problem](https://leetcode.com/problems/search-a-2d-matrix/) [Solution](./Day-05/Search2DMatrix.cpp)
+
+### 📂 Day 6 : Arrays (Part F)
+
+* Majority Element II : [Problem](https://leetcode.com/problems/majority-element-ii/) [Solution](./Day-06/MajorityElementII.cpp)
+
+* Unique Paths : [Problem](https://leetcode.com/problems/unique-paths/) [Solution](./Day-06/UniquePaths.cpp)
+
+* Reverse Pairs : [Problem](https://leetcode.com/problems/reverse-pairs/) [Solution](./Day-06/ReversePairs.cpp)
+
+---
 
 
 
