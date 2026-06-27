@@ -57,27 +57,29 @@ Although I joined the challenge after it had already started, I decided to begin
 * Rotate Image : [Problem](https://leetcode.com/problems/rotate-image/) [Solution](./Day-03/RotateImage.cpp)
 
 ---
-
 ### 📂 Day 4 : Arrays (Part D)
 
-* Find the Duplicate Number : [Problem](https://leetcode.com/problems/find-the-duplicate-number/) [Solution](./Day-04/FindDuplicateNumber.cpp)
+* Find the Duplicate Number : [Problem](https://leetcode.com/problems/find-the-duplicate-number/) [Solution](./Day-04/FindTheDuplicate.cpp)
 
-* Repeat and Missing Number : [Problem](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) [Solution](./Day-04/RepeatAndMissingNumber.cpp)
+* Inversion of Array : [Problem](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) [Solution](./Day-04/InversionOfArray.cpp)
 
-* Count Inversions : [Problem](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) [Solution](./Day-04/CountInversions.cpp)
+* Repeat and Missing Number : [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) [Solution](./Day-04/RepeatedAndMissingNumber.cpp)
 
+---
 
 ### 📂 Day 5 : Arrays (Part E)
 
 * Majority Element : [Problem](https://leetcode.com/problems/majority-element/) [Solution](./Day-05/MajorityElement.cpp)
 
-* Pow(x, n) : [Problem](https://leetcode.com/problems/powx-n/) [Solution](./Day-05/PowXN.cpp)
+* Pow(x, n) : [Problem](https://leetcode.com/problems/powx-n/) [Solution](./Day-05/powXN.cpp)
 
-* Search a 2D Matrix : [Problem](https://leetcode.com/problems/search-a-2d-matrix/) [Solution](./Day-05/Search2DMatrix.cpp)
+* Search a 2D Matrix : [Problem](https://leetcode.com/problems/search-a-2d-matrix/) [Solution](./Day-05/SearchIn2dMatrix.cpp)
+
+---
 
 ### 📂 Day 6 : Arrays (Part F)
 
-* Majority Element II : [Problem](https://leetcode.com/problems/majority-element-ii/) [Solution](./Day-06/MajorityElementII.cpp)
+* Majority Element II : [Problem](https://leetcode.com/problems/majority-element-ii/) [Solution](./Day-06/MajorityElement2.cpp)
 
 * Unique Paths : [Problem](https://leetcode.com/problems/unique-paths/) [Solution](./Day-06/UniquePaths.cpp)
 
@@ -87,22 +89,21 @@ Although I joined the challenge after it had already started, I decided to begin
 
 ### 📂 Day 7 : Arrays (Part G)
 
-* Two Sum : [Problem](https://leetcode.com/problems/two-sum/) [Solution](./Day-07/TwoSum.cpp)
+* Two Sum : [Problem](https://leetcode.com/problems/two-sum/) [Solution](./Day-07/twoSum.cpp)
 
 * Longest Consecutive Sequence : [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) [Solution](./Day-07/LongestConsecutiveSequence.cpp)
 
 * 4Sum : [Problem](https://leetcode.com/problems/4sum/) [Solution](./Day-07/FourSum.cpp)
 
+---
 
 ### 📂 Day 8 : Arrays (Part H)
 
 * Longest Substring Without Repeating Characters : [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Solution](./Day-08/LongestSubstringWithoutRepeatingCharacters.cpp)
 
-* Longest Subarray with Sum K : [Problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) [Solution](./Day-08/LongestSubarrayWithSumK.cpp)
+* Longest Subarray with Sum K : [Problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) [Solution](./Day-08/LongestSubarraywithSumK.cpp)
 
 * Count Subarrays with Given XOR : [Problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) [Solution](./Day-08/CountSubarraysWithGivenXOR.cpp)
-
-
 
 ## 🌐 Connect With Me
 
