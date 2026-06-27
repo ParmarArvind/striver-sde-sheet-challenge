@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 7 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 21 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 8 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 24 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -92,6 +92,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Longest Consecutive Sequence : [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) [Solution](./Day-07/LongestConsecutiveSequence.cpp)
 
 * 4Sum : [Problem](https://leetcode.com/problems/4sum/) [Solution](./Day-07/FourSum.cpp)
+
+
+### 📂 Day 8 : Arrays (Part H)
+
+* Longest Substring Without Repeating Characters : [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [Solution](./Day-08/LongestSubstringWithoutRepeatingCharacters.cpp)
+
+* Longest Subarray with Sum K : [Problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) [Solution](./Day-08/LongestSubarrayWithSumK.cpp)
+
+* Count Subarrays with Given XOR : [Problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) [Solution](./Day-08/CountSubarraysWithGivenXOR.cpp)
 
 
 
