@@ -40,3 +40,25 @@ public:
         return result+1;
     }
 };
+
+class Solution {
+public:
+// method -3 tc=o(n) sc=o(n)
+    int longestConsecutive(vector<int>& nums) {
+        int n=nums.size(); if(n==0) return 0;
+        int result=1;
+        unordered_set<int>st;;
+        for(int num:nums) st.insert(num);
+
+        for(int ele : st)
+        {
+            if(st.count(ele-1)) continue; //because it is not starting position
+            else {
+                int len=1;
+                while(st.count(ele+len)) len++;
+                result=max(len,result);
+            }
+        }
+        return result;
+    }
+};
