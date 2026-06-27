@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 6 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 18 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 7 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 21 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -85,7 +85,13 @@ Although I joined the challenge after it had already started, I decided to begin
 
 ---
 
+### 📂 Day 7 : Arrays (Part G)
 
+* Two Sum : [Problem](https://leetcode.com/problems/two-sum/) [Solution](./Day-07/TwoSum.cpp)
+
+* Longest Consecutive Sequence : [Problem](https://leetcode.com/problems/longest-consecutive-sequence/) [Solution](./Day-07/LongestConsecutiveSequence.cpp)
+
+* 4Sum : [Problem](https://leetcode.com/problems/4sum/) [Solution](./Day-07/FourSum.cpp)
 
 
 
