@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 8 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 24 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 9 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 27 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -104,6 +104,16 @@ Although I joined the challenge after it had already started, I decided to begin
 * Longest Subarray with Sum K : [Problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) [Solution](./Day-08/LongestSubarraywithSumK.cpp)
 
 * Count Subarrays with Given XOR : [Problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) [Solution](./Day-08/CountSubarraysWithGivenXOR.cpp)
+
+
+### 📂 Day 9 : Linked List (Part A)
+
+* Reverse Linked List : [Problem](https://leetcode.com/problems/reverse-linked-list/) [Solution](./Day-09/ReverseLinkedList.cpp)
+
+* Middle of the Linked List : [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) [Solution](./Day-09/MiddleOfTheLinkedList.cpp)
+
+* Merge Two Sorted Lists : [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Day-09/MergeTwoSortedLists.cpp)
+
 
 ## 🌐 Connect With Me
 
