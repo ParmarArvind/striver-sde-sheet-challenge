@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 9 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 27 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 10 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 30/ 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -113,6 +113,14 @@ Although I joined the challenge after it had already started, I decided to begin
 * Middle of the Linked List : [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) [Solution](./Day-09/MiddleOfTheLinkedList.cpp)
 
 * Merge Two Sorted Lists : [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Day-09/MergeTwoSortedLists.cpp)
+
+### 📂 Day 10 : Linked List I
+
+* Remove Nth Node From End of List : [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./Day-10/RemoveNthNodeFromEndOfList.cpp)
+
+* Add Two Numbers : [Problem](https://leetcode.com/problems/add-two-numbers/) [Solution](./Day-10/AddTwoNumbers.cpp)
+
+* Delete Node in a Linked List : [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) [Solution](./Day-10/DeleteNodeInALinkedList.cpp)
 
 
 ## 🌐 Connect With Me
