@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 10 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 30/ 191  | 📈 Growing    |
+| 📅 Days Completed  | 12 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 36/ 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -106,7 +106,7 @@ Although I joined the challenge after it had already started, I decided to begin
 * Count Subarrays with Given XOR : [Problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) [Solution](./Day-08/CountSubarraysWithGivenXOR.cpp)
 
 
-### 📂 Day 9 : Linked List (Part A)
+### 📂 Day 9 : Linked List I (Part-A)
 
 * Reverse Linked List : [Problem](https://leetcode.com/problems/reverse-linked-list/) [Solution](./Day-09/ReverseLinkedList.cpp)
 
@@ -114,13 +114,26 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Merge Two Sorted Lists : [Problem](https://leetcode.com/problems/merge-two-sorted-lists/) [Solution](./Day-09/MergeTwoSortedLists.cpp)
 
-### 📂 Day 10 : Linked List I
+### 📂 Day 10 : Linked List I (part-B)
 
 * Remove Nth Node From End of List : [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [Solution](./Day-10/RemoveNthNodeFromEndOfList.cpp)
 
 * Add Two Numbers : [Problem](https://leetcode.com/problems/add-two-numbers/) [Solution](./Day-10/AddTwoNumbers.cpp)
 
 * Delete Node in a Linked List : [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) [Solution](./Day-10/DeleteNodeInALinkedList.cpp)
+
+
+
+### 📂 Day 11 : Linked List II (part-A)
+
+* Intersection of Two Linked Lists : [Problem](https://leetcode.com/problems/intersection-of-two-linked-lists/) [Solution](./Day-11/intersectionOfTwoLinkedLists.cpp)
+
+* Linked List Cycle : [Problem](https://leetcode.com/problems/linked-list-cycle/) [Solution](./Day-11/LinkedListCycle.cpp)
+
+* Reverse Nodes in K-Group : [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) [Solution](./Day-11/ReverseNodesInk_Group.cpp)
+
+
+
 
 
 ## 🌐 Connect With Me
