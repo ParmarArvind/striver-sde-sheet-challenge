@@ -22,7 +22,7 @@ Although I joined the challenge after it had already started, I decided to begin
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
 | 📅 Days Completed  | 12 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 36/ 191  | 📈 Growing    |
+| 🧩 Problems Solved | 42 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -152,6 +152,16 @@ Although I joined the challenge after it had already started, I decided to begin
 * 3Sum : [Problem](https://leetcode.com/problems/3sum/) [Solution](./Day-13/3Sum.cpp)
 
 * Rotate List : [Problem](https://leetcode.com/problems/rotate-list/) [Solution](./Day-13/RotateList.cpp)
+
+
+### 📂 Day 14 : Arrays
+
+* Trapping Rain Water : [Problem](https://leetcode.com/problems/trapping-rain-water/) [Solution](./Day-14/TrappingRainWater.cpp)
+
+* Remove Duplicates from Sorted Array : [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Solution](./Day-14/RemoveDuplicatesfromSortedArray.cpp)
+
+* Max Consecutive Ones : [Problem](https://leetcode.com/problems/max-consecutive-ones/) [Solution](./Day-14/MaxConsecutiveOnes.cpp)
+
 
 
 
