@@ -145,6 +145,16 @@ Although I joined the challenge after it had already started, I decided to begin
 
 
 
+### 📂 Day 13 : Linked List & Arrays
+
+* Copy List with Random Pointer : [Problem](https://leetcode.com/problems/copy-list-with-random-pointer/) [Solution](./Day-13/CopyListwithRandomPointer.cpp)
+
+* 3Sum : [Problem](https://leetcode.com/problems/3sum/) [Solution](./Day-13/3Sum.cpp)
+
+* Rotate List : [Problem](https://leetcode.com/problems/rotate-list/) [Solution](./Day-13/RotateList.cpp)
+
+
+
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
