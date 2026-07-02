@@ -175,6 +175,17 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Activity Selection : [Problem](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) [Solution](./Day-15/ActivitySelection.cpp)
 
+
+### 📂 Day 16 : Greedy, Dynamic Programming & Backtracking
+
+* Assign Cookies : [Problem](https://leetcode.com/problems/assign-cookies/) [Solution](./Day-16/AssignCookies.cpp)
+
+* Coin Change : [Problem](https://leetcode.com/problems/coin-change/) [Solution](./Day-16/CoinChange.cpp)
+
+* Subset Sum Problem : [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) [Solution](./Day-16/SubsetSumProblem.cpp)
+
+* Subsets II : [Problem](https://leetcode.com/problems/subsets-ii/) [Solution](./Day-16/SubsetsII.cpp)
+
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
