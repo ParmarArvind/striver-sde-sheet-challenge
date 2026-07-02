@@ -165,6 +165,16 @@ Although I joined the challenge after it had already started, I decided to begin
 
 
 
+### 📂 Day 15 : Greedy Algorithms
+
+* Minimum Platforms : [Problem](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) [Solution](./Day-15/MinimumPlatforms.cpp)
+
+* Job Sequencing Problem : [Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) [Solution](./Day-15/JobSequencingProblem.cpp)
+
+* Fractional Knapsack : [Problem](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) [Solution](./Day-15/FractionalKnapsack.cpp)
+
+* Activity Selection : [Problem](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) [Solution](./Day-15/ActivitySelection.cpp)
+
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
