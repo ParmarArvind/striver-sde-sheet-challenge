@@ -23,3 +23,36 @@ public:
 
     }
 };
+
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int n =height.size();
+
+        int left=0;
+        int right=n-1;
+
+        int rightMaxHeight=0;
+        int leftMaxHeight=0;
+
+        int totalWater=0;
+       while(left<=right)
+       {
+            leftMaxHeight = max(leftMaxHeight ,height[left]);
+            rightMaxHeight = max(rightMaxHeight,height[right]);
+            int minHeight=min(leftMaxHeight, rightMaxHeight);
+            if(leftMaxHeight <= rightMaxHeight)
+            {
+                
+                totalWater += minHeight > height[left]  ? minHeight - height[left]: 0  ;
+                left++;
+            }
+            else {
+                totalWater += minHeight > height[right]  ? minHeight - height[right]: 0  ;
+                right--;
+            }
+       }
+        return totalWater;
+
+    }
+};

@@ -4,16 +4,24 @@
 
 ### 1. Trapping Rain Water (LeetCode 42)
 
-- **Approach:** Prefix Max & Suffix Max Arrays
+#### Approach 1: Prefix Max & Suffix Max Arrays
 - **Time Complexity:** O(N)
 - **Space Complexity:** O(N)
 
 **Key Learning:**
 - Learned how prefix and suffix maximum arrays help compute trapped water efficiently.
-- Understood that trapped water at each index depends on the minimum of left and right maximum heights.
+- Understood that trapped water at each index depends on the minimum of the left and right maximum heights.
 - Strengthened understanding of preprocessing techniques.
 
----
+#### Approach 2: Two Pointers
+- **Time Complexity:** O(N)
+- **Space Complexity:** O(1)
+
+**Key Learning:**
+- Optimized the solution by eliminating the prefix and suffix arrays.
+- Used two pointers while maintaining the maximum heights from both ends.
+- Learned that the side with the smaller maximum height determines the trapped water at the current position.
+- Improved understanding of space optimization and the two-pointer technique.
 
 ### 2. Remove Duplicates from Sorted Array (LeetCode 26)
 
