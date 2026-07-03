@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 12 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 42 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 17 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 53 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -185,6 +185,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * Subset Sum Problem : [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) [Solution](./Day-16/SubsetSumProblem.cpp)
 
 * Subsets II : [Problem](https://leetcode.com/problems/subsets-ii/) [Solution](./Day-16/SubsetsII.cpp)
+
+
+### 📂 Day 17 : Backtracking
+
+* Combination Sum : [Problem](https://leetcode.com/problems/combination-sum/) [Solution](./Day-17/CombinationSum.cpp)
+
+* Combination Sum II : [Problem](https://leetcode.com/problems/combination-sum-ii/) [Solution](./Day-17/CombinationSumII.cpp)
+
+* Palindrome Partitioning : [Problem](https://leetcode.com/problems/palindrome-partitioning/) [Solution](./Day-17/PalindromePartitioning.cpp)
+
+* Permutation Sequence : [Problem](https://leetcode.com/problems/permutation-sequence/) [Solution](./Day-17/PermutationSequence.cpp) 
 
 ## 🌐 Connect With Me
 
