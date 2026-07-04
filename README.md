@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 17 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 53 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 18 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 56 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -196,6 +196,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Palindrome Partitioning : [Problem](https://leetcode.com/problems/palindrome-partitioning/) [Solution](./Day-17/PalindromePartitioning.cpp)
 
 * Permutation Sequence : [Problem](https://leetcode.com/problems/permutation-sequence/) [Solution](./Day-17/PermutationSequence.cpp) 
+
+
+### 📂 Day 18 : Backtracking
+
+* Permutations : [Problem](https://leetcode.com/problems/permutations/) [Solution](./Day-18/Permutations.cpp)
+
+* N-Queens : [Problem](https://leetcode.com/problems/n-queens/) [Solution](./Day-18/N_Queens.cpp)
+
+* Sudoku Solver : [Problem](https://leetcode.com/problems/sudoku-solver/) [Solution](./Day-18/SudokuSolver.cpp)
 
 ## 🌐 Connect With Me
 
