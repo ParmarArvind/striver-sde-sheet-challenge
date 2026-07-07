@@ -207,20 +207,28 @@ Although I joined the challenge after it had already started, I decided to begin
 * Sudoku Solver : [Problem](https://leetcode.com/problems/sudoku-solver/) [Solution](./Day-18/SudokuSolver.cpp)
 
 
-### 📂 Day 19 : Binary Search
+### 📂 Day 19 : Backtracking & Dynamic Programming
 
-* Find Nth Root of M : [Problem](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) [Solution](./Day-19/FindNthRootOfM.cpp)
+* Rat in a Maze : [Problem](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) [Solution](./Day-19/RatInAMaze.cpp)
 
-* Median in a Row-wise Sorted Matrix : [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) [Solution](./Day-19/MedianInARowWiseSortedMatrix.cpp)
+* Word Break : [Problem](https://leetcode.com/problems/word-break/) [Solution](./Day-19/WordBreak.cpp)
 
-* Single Element in a Sorted Array : [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) [Solution](./Day-19/SingleElementInASortedArray.cpp)
+* M-Coloring Problem : [Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) [Solution](./Day-19/M_ColoringProblem.cpp)
 
-* Search in Rotated Sorted Array : [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Day-19/SearchInRotatedSortedArray.cpp)
+
+### 📂 Day 20 : Binary Search
+
+* Find Nth Root of M : [Problem](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) [Solution](./Day-20/FindNthRootOfM.cpp)
+
+* Median in a Row-wise Sorted Matrix : [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) [Solution](./Day-20/MedianInARowWiseSortedMatrix.cpp)
+
+* Single Element in a Sorted Array : [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) [Solution](./Day-20/SingleElementInASortedArray.cpp)
+
+* Search in Rotated Sorted Array : [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Day-20/SearchInRotatedSortedArray.cpp)
+
 
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
-
----
 
 ⭐ Follow my journey as I work through the complete SDE Sheet and share my learnings along the way.

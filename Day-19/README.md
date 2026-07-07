@@ -2,89 +2,63 @@
 
 ## ✅ Problems Solved
 
-### 1. Find Nth Root of M (GFG)
+### 1. Rat in a Maze (GFG)
 
-- **Approach 1:** Linear Search
-- **Time Complexity:** O(M × N)
-- **Space Complexity:** O(1)
-
-- **Approach 2:** Binary Search
-- **Time Complexity:** O(N × log M)
-- **Space Complexity:** O(1)
+- **Approach:** Backtracking + DFS
+- **Time Complexity:** O(4^(N²))
+- **Space Complexity:** O(N²)
 
 **Key Learning:**
-- Understood the difference between brute force and Binary Search on the answer.
-- Learned how to efficiently compute the integer nth root using Binary Search.
-- Practiced reducing the search space over possible answers.
+- Learned how to explore all possible paths using DFS.
+- Used backtracking by marking cells as visited and restoring them after recursion.
+- Practiced generating all valid paths while avoiding revisiting cells.
 
 ---
 
-### 2. Median in a Row-wise Sorted Matrix (GFG)
+### 2. Word Break (LeetCode)
 
-- **Approach 1:** Flatten + Sort
-- **Time Complexity:** O((N × M) log(N × M))
-- **Space Complexity:** O(N × M)
-
-- **Approach 2:** Binary Search on Answer
-- **Time Complexity:** O(N × log M × log(Value Range))
-- **Space Complexity:** O(1)
+- **Approach:** Recursion + Memoization (Top-Down DP)
+- **Time Complexity:** O(N²)
+- **Space Complexity:** O(N)
 
 **Key Learning:**
-- Learned how Binary Search can be applied on values instead of indices.
-- Used `upper_bound` to count elements less than or equal to the current value.
-- Understood why row-wise sorting enables an optimal solution.
+- Applied memoization to avoid recomputing the same starting index.
+- Used a hash set for efficient dictionary lookups.
+- Strengthened understanding of DP on strings.
 
 ---
 
-### 3. Single Element in a Sorted Array (LeetCode)
+### 3. M-Coloring Problem (GFG)
 
-- **Approach 1:** Linear Scan
-- **Time Complexity:** O(N)
-- **Space Complexity:** O(1)
-
-- **Approach 2:** Binary Search
-- **Time Complexity:** O(log N)
-- **Space Complexity:** O(1)
+- **Approach:** Backtracking
+- **Time Complexity:** O(M^V)
+- **Space Complexity:** O(V)
 
 **Key Learning:**
-- Learned how index parity helps locate the unique element.
-- Optimized a linear scan into a logarithmic-time solution.
-- Strengthened Binary Search on sorted arrays.
-
----
-
-### 4. Search in Rotated Sorted Array (LeetCode)
-
-- **Approach:** Modified Binary Search
-- **Time Complexity:** O(log N)
-- **Space Complexity:** O(1)
-
-**Key Learning:**
-- Learned how to identify the sorted half of a rotated array.
-- Practiced applying Binary Search under modified conditions.
-- Improved understanding of rotated sorted array problems.
+- Learned how to assign colors recursively while satisfying graph constraints.
+- Used an adjacency list to validate color assignments efficiently.
+- Improved understanding of graph backtracking problems.
 
 ---
 
 ## 📚 Day 19 Summary
 
-Today's focus was on mastering **Binary Search on Answers and Rotated Arrays**.
+Today's focus was on mastering **Backtracking** with graph and string-based problems.
 
 ### Concepts Revised
 
-- Binary Search
-- Binary Search on Answer
-- Answer Space Optimization
-- Upper Bound
-- Rotated Sorted Array
-- Matrix Binary Search
-- Logarithmic Search Techniques
+- Backtracking
+- Depth First Search (DFS)
+- Graph Coloring
+- Memoization
+- Dynamic Programming on Strings
+- Recursion
 
 ### Progress
 
-- ✅ Solved 4 problems
-- ✅ Implemented both brute-force and optimal solutions
-- ✅ Strengthened Binary Search intuition across multiple problem patterns
+- ✅ Solved 3 problems
+- ✅ Practiced recursive state-space exploration
+- ✅ Strengthened graph and string backtracking concepts
 
 ---
 
