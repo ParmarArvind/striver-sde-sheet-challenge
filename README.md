@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 18 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 56 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 20 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 63 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -205,6 +205,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * N-Queens : [Problem](https://leetcode.com/problems/n-queens/) [Solution](./Day-18/N_Queens.cpp)
 
 * Sudoku Solver : [Problem](https://leetcode.com/problems/sudoku-solver/) [Solution](./Day-18/SudokuSolver.cpp)
+
+
+### 📂 Day 19 : Binary Search
+
+* Find Nth Root of M : [Problem](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) [Solution](./Day-19/FindNthRootOfM.cpp)
+
+* Median in a Row-wise Sorted Matrix : [Problem](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) [Solution](./Day-19/MedianInARowWiseSortedMatrix.cpp)
+
+* Single Element in a Sorted Array : [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) [Solution](./Day-19/SingleElementInASortedArray.cpp)
+
+* Search in Rotated Sorted Array : [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Day-19/SearchInRotatedSortedArray.cpp)
 
 ## 🌐 Connect With Me
 
