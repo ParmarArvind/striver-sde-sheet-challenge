@@ -233,7 +233,7 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Aggressive Cows : [Problem](https://www.geeksforgeeks.org/problems/aggressive-cows/1) [Solution](./Day-21/AggressiveCows.cpp)
 
-* K-th Element of Two Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-arrays1317/1) [Solution](./Day-21/KthElementOfTwoSortedArrays.cpp)
+* K-th Element of Two Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) [Solution](./Day-21/KthElementOfTwoSortedArrays.cpp)
 
 * Allocate Minimum Pages : [Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) [Solution](./Day-21/AllocateMinimumPages.cpp)
 
