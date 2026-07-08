@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 20 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 63 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 21 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 67 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -225,6 +225,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * Single Element in a Sorted Array : [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) [Solution](./Day-20/SingleElementInASortedArray.cpp)
 
 * Search in Rotated Sorted Array : [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/) [Solution](./Day-20/SearchInRotatedSortedArray.cpp)
+
+
+### 📂 Day 21 : Binary Search
+
+* Median of Two Sorted Arrays : [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) [Solution](./Day-21/MedianOfTwoSortedArrays.cpp)
+
+* Aggressive Cows : [Problem](https://www.geeksforgeeks.org/problems/aggressive-cows/1) [Solution](./Day-21/AggressiveCows.cpp)
+
+* K-th Element of Two Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-arrays1317/1) [Solution](./Day-21/KthElementOfTwoSortedArrays.cpp)
+
+* Allocate Minimum Pages : [Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) [Solution](./Day-21/AllocateMinimumPages.cpp)
 
 
 ## 🌐 Connect With Me
