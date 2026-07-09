@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 22 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 70 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 23 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 73 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -246,6 +246,14 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Maximum Sum Combination : [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) [Solution](./Day-22/MaximumSumCombination.cpp)
 
+
+### 📂 Day 23 : Heap
+
+* Top K Frequent Elements : [Problem](https://leetcode.com/problems/top-k-frequent-elements/) [Solution](./Day-23/TopKFrequentElements.cpp)
+
+* Merge K Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) [Solution](./Day-23/MergeKSortedArrays.cpp)
+
+* Find Median from Data Stream : [Problem](https://leetcode.com/problems/find-median-from-data-stream/) [Solution](./Day-23/FindMedianFromDataStream.cpp)
 
 ## 🌐 Connect With Me
 

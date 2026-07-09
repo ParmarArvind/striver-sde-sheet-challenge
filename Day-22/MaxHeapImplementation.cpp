@@ -48,7 +48,7 @@ class maxHeap {
         currSize++;
         int idx=currSize-1;
         
-        // heapify it (upside)
+        // heapify it (step-up)
         while(idx>0 && arr[(idx-1)/2] < arr[idx])
         {
             swap(arr[idx], arr[(idx-1)/2]);
@@ -61,7 +61,7 @@ class maxHeap {
     
         arr[0] = arr[currSize-1] ;    // Remove last element
         currSize--;
-        //  heapify it ( downside)
+        //  heapify it ( step-down)
         if (currSize > 0)
             heapify(0);
     }
