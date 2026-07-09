@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 21 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 67 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 22 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 70 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -236,6 +236,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * K-th Element of Two Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) [Solution](./Day-21/KthElementOfTwoSortedArrays.cpp)
 
 * Allocate Minimum Pages : [Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) [Solution](./Day-21/AllocateMinimumPages.cpp)
+
+
+### 📂 Day 22 : Heap
+
+* Kth Largest Element in an Array : [Problem](https://leetcode.com/problems/kth-largest-element-in-an-array/) [Solution](./Day-22/KthLargestElementInAnArray.cpp)
+
+* Max Heap Implementation : [Problem](https://www.geeksforgeeks.org/problems/max-heap-implementation/1) [Solution](./Day-22/MaxHeapImplementation.cpp)
+
+* Maximum Sum Combination : [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) [Solution](./Day-22/MaximumSumCombination.cpp)
 
 
 ## 🌐 Connect With Me
