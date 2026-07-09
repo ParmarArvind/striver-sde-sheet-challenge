@@ -260,7 +260,7 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Implement Stack using Array : [Problem](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) [Solution](./Day-24/ImplementStackUsingArray.cpp)
 
-* Queue using Array : [Problem](https://www.geeksforgeeks.org/problems/queue-using-array/1) [Solution](./Day-24/QueueUsingArray.cpp)
+* Queue using Array : [Problem](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) [Solution](./Day-24/QueueUsingArray.cpp)
 
 * Implement Stack using Queues : [Problem](https://leetcode.com/problems/implement-stack-using-queues/) [Solution](./Day-24/ImplementStackUsingQueues.cpp)
 
