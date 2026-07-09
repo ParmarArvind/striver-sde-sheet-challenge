@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 23 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 73 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 24 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 77 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -254,6 +254,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * Merge K Sorted Arrays : [Problem](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) [Solution](./Day-23/MergeKSortedArrays.cpp)
 
 * Find Median from Data Stream : [Problem](https://leetcode.com/problems/find-median-from-data-stream/) [Solution](./Day-23/FindMedianFromDataStream.cpp)
+
+
+### 📂 Day 24 : Stack & Queue Implementation
+
+* Implement Stack using Array : [Problem](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) [Solution](./Day-24/ImplementStackUsingArray.cpp)
+
+* Queue using Array : [Problem](https://www.geeksforgeeks.org/problems/queue-using-array/1) [Solution](./Day-24/QueueUsingArray.cpp)
+
+* Implement Stack using Queues : [Problem](https://leetcode.com/problems/implement-stack-using-queues/) [Solution](./Day-24/ImplementStackUsingQueues.cpp)
+
+* Implement Queue using Stacks : [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) [Solution](./Day-24/ImplementQueueUsingStacks.cpp)
 
 ## 🌐 Connect With Me
 
