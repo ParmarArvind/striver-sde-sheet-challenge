@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 24 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 77 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 26 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 83 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -265,6 +265,22 @@ Although I joined the challenge after it had already started, I decided to begin
 * Implement Stack using Queues : [Problem](https://leetcode.com/problems/implement-stack-using-queues/) [Solution](./Day-24/ImplementStackUsingQueues.cpp)
 
 * Implement Queue using Stacks : [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) [Solution](./Day-24/ImplementQueueUsingStacks.cpp)
+
+### 📂 Day 25 : Stack Applications
+
+* Next Greater Element I : [Problem](https://leetcode.com/problems/next-greater-element-i/) [Solution](./Day-25/NextGreaterElementI.cpp)
+
+* Sort a Stack : [Problem](https://www.geeksforgeeks.org/problems/sort-a-stack/1) [Solution](./Day-25/SortAStack.cpp)
+
+* Valid Parentheses : [Problem](https://leetcode.com/problems/valid-parentheses/) [Solution](./Day-25/ValidParentheses.cpp)
+
+### 📂 Day 26 : Advanced Stack & Cache Design
+
+* LRU Cache : [Problem](https://leetcode.com/problems/lru-cache/) [Solution](./Day-26/LRUCache.cpp)
+
+* LFU Cache : [Problem](https://leetcode.com/problems/lfu-cache/) [Solution](./Day-26/LFUCache.cpp)
+
+* Next Smaller Element : [Problem](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) [Solution](./Day-26/NextSmallerElement.cpp)
 
 ## 🌐 Connect With Me
 
