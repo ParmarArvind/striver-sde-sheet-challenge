@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 26 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 83 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 27 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 86 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -281,6 +281,16 @@ Although I joined the challenge after it had already started, I decided to begin
 * LFU Cache : [Problem](https://leetcode.com/problems/lfu-cache/) [Solution](./Day-26/LFUCache.cpp)
 
 * Next Smaller Element : [Problem](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) [Solution](./Day-26/NextSmallerElement.cpp)
+
+
+### 📂 Day 27 : Monotonic Stack & Sliding Window
+
+* Largest Rectangle in Histogram : [Problem](https://leetcode.com/problems/largest-rectangle-in-histogram/) [Solution](./Day-27/LargestRectangleInHistogram.cpp)
+
+* Sliding Window Maximum : [Problem](https://leetcode.com/problems/sliding-window-maximum/) [Solution](./Day-27/SlidingWindowMaximum.cpp)
+
+* Min Stack : [Problem](https://leetcode.com/problems/min-stack/) [Solution](./Day-27/MinStack.cpp)
+
 
 ## 🌐 Connect With Me
 
