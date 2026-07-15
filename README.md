@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 27 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 86 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 28 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 90 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -291,6 +291,18 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Min Stack : [Problem](https://leetcode.com/problems/min-stack/) [Solution](./Day-27/MinStack.cpp)
 
+
+
+
+### 📂 Day 28 : Graphs & Monotonic Stack
+
+* Rotting Oranges : [Problem](https://leetcode.com/problems/rotting-oranges/) [Solution](./Day-28/RottingOranges.cpp)
+
+* Max of Min for Every Window Size : [Problem](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) [Solution](./Day-28/MaxOfMinForEveryWindowSize.cpp)
+
+* The Celebrity Problem : [Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) [Solution](./Day-28/CelebrityProblem.cpp)
+
+* Online Stock Span : [Problem](https://leetcode.com/problems/online-stock-span/) [Solution](./Day-28/OnlineStockSpan.cpp)
 
 ## 🌐 Connect With Me
 
