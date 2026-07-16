@@ -21,8 +21,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 28 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 90 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 29 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 94 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -303,6 +303,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * The Celebrity Problem : [Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) [Solution](./Day-28/CelebrityProblem.cpp)
 
 * Online Stock Span : [Problem](https://leetcode.com/problems/online-stock-span/) [Solution](./Day-28/OnlineStockSpan.cpp)
+
+
+### 📂 Day 29 : Strings
+
+* String to Integer (atoi) : [Problem](https://leetcode.com/problems/string-to-integer-atoi/) [Solution](./Day-29/StringToInteger(atoi).cpp)
+
+* Reverse Words in a String : [Problem](https://leetcode.com/problems/reverse-words-in-a-string/) [Solution](./Day-29/ReverseWordsInAString.cpp)
+
+* Longest Palindromic Substring  : [Problem](https://leetcode.com/problems/longest-palindromic-substring/) [Solution](./Day-29/LongestPalindromicSubstring.cpp)
+
+* Roman to Integer : [Problem](https://leetcode.com/problems/roman-to-integer/) [Solution](./Day-29/RomanToInteger.cpp)
 
 ## 🌐 Connect With Me
 
