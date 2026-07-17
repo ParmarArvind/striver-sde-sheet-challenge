@@ -16,13 +16,12 @@ Although I joined the challenge after it had already started, I decided to begin
 * Track progress publicly through GitHub and LinkedIn
 
 ---
-
 ## 📊 Challenge Dashboard
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 29 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 94 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 30 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 97/ 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -314,6 +313,13 @@ Although I joined the challenge after it had already started, I decided to begin
 * Longest Palindromic Substring  : [Problem](https://leetcode.com/problems/longest-palindromic-substring/) [Solution](./Day-29/LongestPalindromicSubstring.cpp)
 
 * Roman to Integer : [Problem](https://leetcode.com/problems/roman-to-integer/) [Solution](./Day-29/RomanToInteger.cpp)
+
+
+* Longest Common Prefix : [Problem](https://leetcode.com/problems/longest-common-prefix/) [Solution](./Day-30/LongestCommonPrefix.cpp)
+
+* Repeated String Match (KMP) : [Problem](https://leetcode.com/problems/repeated-string-match/) [Solution](./Day-30/RepeatedStringMatch.cpp)
+
+* Valid Anagram : [Problem](https://leetcode.com/problems/valid-anagram/) [Solution](./Day-30/ValidAnagram.cpp)
 
 ## 🌐 Connect With Me
 
