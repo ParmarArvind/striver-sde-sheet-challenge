@@ -23,7 +23,6 @@
 ### 2. Find the Index of the First Occurrence in a String *(LeetCode)*
 
 #### Approach 1
-
 **Approach:** Brute Force
 
 - **Time Complexity:** **O((N − M + 1) × M)**
