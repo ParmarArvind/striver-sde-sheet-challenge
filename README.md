@@ -3,7 +3,6 @@
 This repository contains my solutions and progress for Striver's 45-Day SDE Sheet Challenge.
 
 Although I joined the challenge after it had already started, I decided to begin from Day 1 and complete the entire sheet while documenting my journey publicly.
-
 ---
 
 ## 🎯 Challenge Goals
