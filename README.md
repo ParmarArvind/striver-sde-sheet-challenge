@@ -335,6 +335,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Compare Version Numbers : [Problem](https://leetcode.com/problems/compare-version-numbers/) [Solution](./Day-32/CompareVersionNumbers.cpp)
 
 * Count and Say : [Problem](https://leetcode.com/problems/count-and-say/) [Solution](./Day-32/CountAndSay.cpp)
+
+### 📂 Day 33 : Binary Trees (Part A)
+
+* Binary Tree Inorder Traversal : [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Solution](./Day-33/BinaryTreeInorderTraversal.cpp)
+
+* Binary Tree Preorder Traversal : [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) [Solution](./Day-33/BinaryTreePreorderTraversal.cpp)
+
+* Binary Tree Postorder Traversal : [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) [Solution](./Day-33/BinaryTreePostorderTraversal.cpp)
+
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
