@@ -329,6 +329,12 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Search Pattern : [Problem](https://www.geeksforgeeks.org/problems/search-pattern0205/1) [Solution](./Day-31/SearchPattern.cpp)
 
+
+### 📂 Day 32 : Strings Iv
+
+* Compare Version Numbers : [Problem](https://leetcode.com/problems/compare-version-numbers/) [Solution](./Day-32/CompareVersionNumbers.cpp)
+
+* Count and Say : [Problem](https://leetcode.com/problems/count-and-say/) [Solution](./Day-32/CountAndSay.cpp)
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
