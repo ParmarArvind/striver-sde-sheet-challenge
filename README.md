@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 30 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 97/ 191  | 📈 Growing    |
+| 📅 Days Completed  | 34 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 109 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -343,6 +343,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * Binary Tree Preorder Traversal : [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/) [Solution](./Day-33/BinaryTreePreorderTraversal.cpp)
 
 * Binary Tree Postorder Traversal : [Problem](https://leetcode.com/problems/binary-tree-postorder-traversal/) [Solution](./Day-33/BinaryTreePostorderTraversal.cpp)
+
+### 📂 Day 34 : Binary Trees (Part B)
+
+* Top View of Binary Tree : [Problem](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) [Solution](./Day-34/TopViewOfBinaryTree.cpp)
+
+* Bottom View of Binary Tree : [Problem](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) [Solution](./Day-34/BottomViewOfBinaryTree.cpp)
+
+* Binary Tree Right Side View : [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) [Solution](./Day-34/BinaryTreeRightSideView.cpp)
+
+
+
 
 ## 🌐 Connect With Me
 
