@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 34 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 109 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 35 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 112 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -353,6 +353,13 @@ Although I joined the challenge after it had already started, I decided to begin
 * Binary Tree Right Side View : [Problem](https://leetcode.com/problems/binary-tree-right-side-view/) [Solution](./Day-34/BinaryTreeRightSideView.cpp)
 
 
+### 📂 Day 35 : Binary Trees (Part C)
+
+* Vertical Order Traversal of a Binary Tree : [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) [Solution](./Day-35/VerticalOrderTraversalOfABinaryTree.cpp)
+
+* Maximum Width of Binary Tree : [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree/) [Solution](./Day-35/MaximumWidthOfBinaryTree.cpp)
+
+* Binary Tree Paths : [Problem](https://leetcode.com/problems/binary-tree-paths/) [Solution](./Day-35/BinaryTreePaths.cpp)
 
 
 ## 🌐 Connect With Me
