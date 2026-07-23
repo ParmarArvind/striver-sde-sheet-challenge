@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 35 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 112 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 36 / 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 116 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -360,6 +360,17 @@ Although I joined the challenge after it had already started, I decided to begin
 * Maximum Width of Binary Tree : [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree/) [Solution](./Day-35/MaximumWidthOfBinaryTree.cpp)
 
 * Binary Tree Paths : [Problem](https://leetcode.com/problems/binary-tree-paths/) [Solution](./Day-35/BinaryTreePaths.cpp)
+
+
+### 📂 Day 36 : Binary Trees (Part D)
+
+* Maximum Depth of Binary Tree : [Problem](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./Day-36/MaximumDepthOfBinaryTree.cpp)
+
+* Diameter of Binary Tree : [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) [Solution](./Day-36/DiameterOfBinaryTree.cpp)
+
+* Binary Tree Level Order Traversal : [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) [Solution](./Day-36/BinaryTreeLevelOrderTraversal.cpp)
+
+* Balanced Binary Tree : [Problem](https://leetcode.com/problems/balanced-binary-tree/) [Solution](./Day-36/BalancedBinaryTree.cpp)
 
 
 ## 🌐 Connect With Me
