@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 36 / 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 116 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 37/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 120 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -371,6 +371,18 @@ Although I joined the challenge after it had already started, I decided to begin
 * Binary Tree Level Order Traversal : [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/) [Solution](./Day-36/BinaryTreeLevelOrderTraversal.cpp)
 
 * Balanced Binary Tree : [Problem](https://leetcode.com/problems/balanced-binary-tree/) [Solution](./Day-36/BalancedBinaryTree.cpp)
+
+
+### 📂 Day 37 : Binary Trees (Part E)
+
+* Binary Tree Zigzag Level Order Traversal : [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [Solution](./Day-37/BinaryTreeZigzagLevelOrderTraversal.cpp)
+
+* Same Tree : [Problem](https://leetcode.com/problems/same-tree/) [Solution](./Day-37/SameTree.cpp)
+
+* Boundary Traversal of Binary Tree : [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) [Solution](./Day-37/BoundaryTraversalOfBinaryTree.cpp)
+
+* Lowest Common Ancestor of a Binary Tree : [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [Solution](./Day-37/LowestCommonAncestorOfBinaryTree.cpp)
+
 
 
 ## 🌐 Connect With Me
