@@ -388,9 +388,9 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Binary Tree Maximum Path Sum : [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [Solution](./Day-38/BinaryTreeMaximumPathSum.cpp)
 
-* Construct Binary Tree from Preorder and Inorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [Solution](./Day-38/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp)
+* Construct Binary Tree from Preorder and Inorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [Solution](./Day-38/ConstructBinaryTreefromPreorderAndInorderTraversal.cpp)
 
-* Construct Binary Tree from Inorder and Postorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [Solution](./Day-38/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp)
+* Construct Binary Tree from Inorder and Postorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [Solution](./Day-38/ConstructBinaryTreefromInorderAndPostorderTraversal.cpp)
 
 
 
