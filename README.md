@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 37/ 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 120 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 38/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 123 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -382,6 +382,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Boundary Traversal of Binary Tree : [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) [Solution](./Day-37/BoundaryTraversalOfBinaryTree.cpp)
 
 * Lowest Common Ancestor of a Binary Tree : [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [Solution](./Day-37/LowestCommonAncestorOfBinaryTree.cpp)
+
+
+### 📂 Day 38 : Binary Trees (Part F)
+
+* Binary Tree Maximum Path Sum : [Problem](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [Solution](./Day-38/BinaryTreeMaximumPathSum.cpp)
+
+* Construct Binary Tree from Preorder and Inorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [Solution](./Day-38/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp)
+
+* Construct Binary Tree from Inorder and Postorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [Solution](./Day-38/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp)
 
 
 
