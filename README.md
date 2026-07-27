@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 38/ 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 123 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 39/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 126 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -392,6 +392,14 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Construct Binary Tree from Inorder and Postorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [Solution](./Day-38/ConstructBinaryTreefromPostorderAndInorderTraversal.cpp)
 
+
+### 📂 Day 39 : Binary Trees (Part G)
+
+* Symmetric Tree : [Problem](https://leetcode.com/problems/symmetric-tree/) [Solution](./Day-39/SymmetricTree.cpp)
+
+* Flatten Binary Tree to Linked List : [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [Solution](./Day-39/FlattenBinaryTreeToLinkedList.cpp)
+
+* Children Sum Property : [Problem](https://www.geeksforgeeks.org/problems/children-sum-parent/1) [Solution](./Day-39/ChildrenSumProperty.cpp)
 
 ## 🌐 Connect With Me
 
