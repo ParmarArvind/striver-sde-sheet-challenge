@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 39/ 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 126 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 40/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 129 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -400,6 +400,15 @@ Although I joined the challenge after it had already started, I decided to begin
 * Flatten Binary Tree to Linked List : [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [Solution](./Day-39/FlattenBinaryTreeToLinkedList.cpp)
 
 * Children Sum Property : [Problem](https://www.geeksforgeeks.org/problems/children-sum-parent/1) [Solution](./Day-39/ChildrenSumProperty.cpp)
+
+
+### 📂 Day 40 : Binary Search Trees (Part A)
+
+* Populating Next Right Pointers in Each Node : [Problem](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [Solution](./Day-40/PopulatingNextRightPointersInEachNode.cpp)
+
+* Search in a Binary Search Tree : [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) [Solution](./Day-40/SearchInABinarySearchTree.cpp)
+
+* Convert Sorted Array to Binary Search Tree : [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [Solution](./Day-40/ConvertSortedArrayToBinarySearchTree.cpp)
 
 ## 🌐 Connect With Me
 
