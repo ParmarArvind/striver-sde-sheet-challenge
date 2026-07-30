@@ -410,6 +410,14 @@ Although I joined the challenge after it had already started, I decided to begin
 
 * Convert Sorted Array to Binary Search Tree : [Problem](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [Solution](./Day-40/ConvertSortedArrayToBinarySearchTree.cpp)
 
+
+### 📂 Day 41 : Binary Search Trees (Part B)
+
+* Construct Binary Search Tree from Preorder Traversal : [Problem](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [Solution](./Day-41/ConstructBinarySearchTreeFromPreorderTraversal.cpp)
+
+* Validate Binary Search Tree : [Problem](https://leetcode.com/problems/validate-binary-search-tree/) [Solution](./Day-41/ValidateBinarySearchTree.cpp)
+
+* Predecessor and Successor : [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) [Solution](./Day-41/PredecessorAndSuccessor.cpp)
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
