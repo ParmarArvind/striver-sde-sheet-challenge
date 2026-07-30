@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 40/ 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 129 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 42/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 136 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -418,6 +418,18 @@ Although I joined the challenge after it had already started, I decided to begin
 * Validate Binary Search Tree : [Problem](https://leetcode.com/problems/validate-binary-search-tree/) [Solution](./Day-41/ValidateBinarySearchTree.cpp)
 
 * Predecessor and Successor : [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) [Solution](./Day-41/PredecessorAndSuccessor.cpp)
+
+### 📂 Day 42 : Binary Search Trees (Part C)
+
+* Floor in BST : [Problem](https://www.geeksforgeeks.org/problems/floor-in-bst/1) [Solution](./Day-42/FloorInBST.cpp)
+
+* Ceil in BST : [Problem](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) [Solution](./Day-42/CeilInBST.cpp)
+
+* Kth Smallest Element in a BST : [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [Solution](./Day-42/KthSmallestElementInBST.cpp)
+
+* Kth Largest in BST : [Problem](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) [Solution](./Day-42/KthLargestInBST.cpp)
+
+
 ## 🌐 Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/arvind-parmar-59b409318/)
