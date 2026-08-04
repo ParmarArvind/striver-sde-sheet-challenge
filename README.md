@@ -19,8 +19,8 @@ Although I joined the challenge after it had already started, I decided to begin
 
 | Metric             | Progress  | Status         |
 | ------------------ | --------  | -------------- |
-| 📅 Days Completed  | 42/ 45   | 🚀 In Progress |
-| 🧩 Problems Solved | 136 / 191  | 📈 Growing    |
+| 📅 Days Completed  | 43/ 45   | 🚀 In Progress |
+| 🧩 Problems Solved | 139 / 191  | 📈 Growing    |
 | 💻 Language        | C++      | ✅ Active      |
 
 ---
@@ -428,6 +428,14 @@ Although I joined the challenge after it had already started, I decided to begin
 * Kth Smallest Element in a BST : [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [Solution](./Day-42/KthSmallestElementInBST.cpp)
 
 * Kth Largest in BST : [Problem](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) [Solution](./Day-42/KthLargestInBST.cpp)
+
+### 📂 Day 43 : Binary Search Trees (Part D)
+
+* Two Sum IV - Input is a BST : [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) [Solution](./Day-43/TwoSumIVInputIsABST.cpp)
+
+* Binary Search Tree Iterator : [Problem](https://leetcode.com/problems/binary-search-tree-iterator/) [Solution](./Day-43/BSTIterator.cpp)
+
+* Maximum Sum BST in Binary Tree : [Problem](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) [Solution](./Day-43/MaximumSumBSTInBinaryTree.cpp)
 
 
 ## 🌐 Connect With Me
